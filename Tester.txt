@@ -1,0 +1,17 @@
+
+public class Tester {
+
+	public static Visitante v1;
+	public static Aluno a1;
+	public static Bolsista b1;
+
+	public static void main(String[] args) {
+		
+		
+		v1 = new Visitante();		
+		a1 = new Aluno();
+		b1 = new Bolsista();
+
+	}
+
+}
